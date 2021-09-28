@@ -1,2 +1,2 @@
 # eclass
-mini classroom
+eClass est un projet de gestion d'ecole 
